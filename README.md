@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Medical+AI+Researcher;PyTorch+%2B+FastAPI;Aiming+for+SNU+AI+Grad+School)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인아이디&theme=tokyonight" width="48%" />
+</div>
